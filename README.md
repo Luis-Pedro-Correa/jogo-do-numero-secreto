@@ -24,5 +24,6 @@ https://github.com/user-attachments/assets/eba1927b-d216-499f-a9d3-fdb3d22aa284
 
 - ``Java``
 - ``HTML``
+- ``CSS``
 
 
